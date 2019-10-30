@@ -2,6 +2,8 @@
 
 body { 
 	background-image: url(https://images.wallpaperscraft.com/image/bmw_headlights_lights_137326_1920x1080.jpg);
+	background-repeat: no-repeat;
+   background-size: 100%;
  }
 
  #headercolor { 
