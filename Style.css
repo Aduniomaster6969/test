@@ -10,7 +10,7 @@ body {
  	color: #D4AF37;
   }
 
-  .btn {
+  #btn {
   display: inline-block;
   background: transparent;
   text-transform: uppercase;
@@ -31,7 +31,7 @@ body {
   border: 1px solid rgba(223,190,106,0.3);
 }
 
-.btn:hover {
+#btn:hover {
   color: #fff;
   border: 1px solid rgba(223,190,106,0);
   color: $white;
